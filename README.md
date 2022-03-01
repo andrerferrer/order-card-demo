@@ -1,7 +1,7 @@
 ## Goal
 This is a demo app to teach how to implement an order card with features to increase/decrease and add or remove an item to an order in Ruby on Rails.
 
-![image](https://user-images.githubusercontent.com/45776359/156179297-bba4183c-d583-49bb-bf0f-d24c38a5e5a8.png)
+![ezgif-5-662ca97e7f](https://user-images.githubusercontent.com/45776359/156179797-b98ef3b0-66ba-4689-aa5c-ba783ff7a41f.gif)
 
 [You can also check my other demos](https://github.com/andrerferrer/dedemos/blob/master/README.md#ded%C3%A9mos).
 
